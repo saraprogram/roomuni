@@ -1,0 +1,32 @@
+{
+
+  "hello-world": "hello",
+
+  "Roomie" : "Roomate",
+  "home_page":"home-page",
+  "login": "loginnnnnn",
+  "Profile manage": "profile",
+  "About us": "about",
+  "Setting": "setting",
+  "Terms and Condition": "terms",
+  "Contact us": "contact",
+  "personal_information": "Personal Information",
+  "name": "Name",
+  "Password" : "Password",
+  "name_hint": "Enter your name",
+  "Email": "Emailşşşşş",
+  "enter your email": "yourrrrrrrr",
+  "please enter your email":  "your",
+  "enter your password" :  "yourrrrrrrrr",
+  "please enter your password" :  "your",
+  "google login" :  "your",
+  "Forgot password?" : "your",
+  "Sign up": "your",
+
+  "email_hint": "Enter your email",
+  "date_of_birth": "Date of Birth",
+  "required_field": "Required Field",
+  "submit_info": "Submit Info",
+  "change_language": "Change Language",
+  "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
